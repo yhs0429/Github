@@ -116,7 +116,7 @@ $git push -u origin master
 
 
 
-![git push](C:\Users\TEST\Desktop\Github\TIL\png\git push.png)
+![git push](https://github.com/yhs0429/TIL/blob/master/png/git%20push.png)
 
 ## clone , pull
 
